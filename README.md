@@ -1,2 +1,2 @@
 # learning
-repo is made for uploading code while learning programming languges such as c, c++, pyton, and rust
+repo is made for uploading code while learning programming languages such as c, c++, pyton, and rust
